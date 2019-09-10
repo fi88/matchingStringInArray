@@ -6,6 +6,9 @@ import org.junit.Test;
 
 import java.util.*;
 
+/**
+* Test
+**/
 public class FinderTest {
 
     static String CHAR_REPOSITORY = "0123456789QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm";
