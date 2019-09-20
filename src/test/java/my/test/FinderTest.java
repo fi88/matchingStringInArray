@@ -13,6 +13,9 @@ public class FinderTest {
 
     static String CHAR_REPOSITORY = "0123456789QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm";
 
+	/**
+	* Test the finder object with 2 strings at different lengths
+	**/
     @Test
     public void testStringsWithDifferentLengths() {
         Finder finder = new Finder(Arrays.asList("ABCXY"));
