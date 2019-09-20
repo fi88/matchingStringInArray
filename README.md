@@ -1,4 +1,5 @@
 # matchingStringInArray
+# This line appears in master branch
 The purpose of this program is to extract matching strings from an array regardless of the characters order.  
 
 You will write a Java class that accepts an array of strings in the constructor. The class will expose a find function that accepts a string. The function will return all strings from the array that contains the exact same characters as the string passed into it. The order of the characters in the strings is not relevant.  
